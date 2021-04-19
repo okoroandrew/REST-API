@@ -4,6 +4,10 @@
 
 ```
 pip install Flask
+pip install flask-jwt
+pip install flask-sqlalchemy
+pip install flask-restful
+
 python app.py
 ```
 
